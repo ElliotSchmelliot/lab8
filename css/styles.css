@@ -27,3 +27,15 @@ body {
     margin-top: 2em;
     text-align: right;
 }
+
+.message {
+	display: none;
+	padding: 5px;
+	background-color: #FFD773;
+	border-radius: 5px;
+}
+
+.git-repo {
+	margin: 20px 0;
+	font-size: 200%;
+}
